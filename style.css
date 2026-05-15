@@ -108,6 +108,8 @@ background-position: center;
 }
 
 .table{
-    width: 900px;
     display: flex;
+}
+td{
+    width:400px;
 }
