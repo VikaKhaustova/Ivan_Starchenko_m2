@@ -99,10 +99,15 @@ background-position: center;
 .coffee-text{
     width: 500px;
 }
-
 .hero3{
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
+    align-items: center;
+}
+
+.table{
+    width: 900px;
+    display: flex;
 }
